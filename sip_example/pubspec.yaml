@@ -1,4 +1,4 @@
-name: sip_ua_example
+name: sip_example
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -23,11 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sip_ua:
-  flutter_hooks:
-  hooks_riverpod:
-  freezed_annotation:
-  enum_to_string:
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -36,9 +32,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  json_serializable:
-  build_runner:
-  freezed:
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
